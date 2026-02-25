@@ -112,4 +112,5 @@ open ios/Runner.xcworkspace
 
 欢迎提交 Issue 和 Pull Request！
 
+------
 **三省吾身** - 让每天的自我觉察成为习惯
